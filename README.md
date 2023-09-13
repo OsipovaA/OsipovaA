@@ -7,7 +7,10 @@
 
 
 ## Орг. информация
-### Записи лекций: 
-
-### Ведомость 
-
+### Записи лекций: https://disk.yandex.ru/d/i2UnklcmbY_12A/Video
+### Требования к контрольной работе 1: https://vmarshirov.github.io/g06u28/requirements_html.html (дедлайн будет позже, сдать можно досрочно)
+### Ведомость https://docs.google.com/spreadsheets/d/1XhcHA7enEYWMa4s1Z9blOmhO4hP3eL4i/edit?usp=sharing&ouid=108463299657538106832&rtpof=true&sd=true 
+### Для того, чтобы выслать домашнее задание (учёт активности), нужно
+#### 1) заполнить форму по ссылке https://forms.gle/3vjDztbVZw4rXVAi7 
+#### 2) отметить в Ведомости (ссылка выше) какие задание уже загружены и готовы ли вы объяснить его на практическом занятии
+### Директория курса, ссылки на лекции https://github.com/vmarshirov/g06u28
