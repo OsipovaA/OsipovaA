@@ -16,3 +16,4 @@
 ### Записи лекций: https://disk.yandex.ru/d/i2UnklcmbY_12A/Video
 ### Запись занятие 1.Форматирование: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/644453331 
 ### Запись занятие 2.Ссылки: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/651826021 
+index.html 
