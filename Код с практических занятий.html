@@ -136,5 +136,138 @@
 <br><a href="/2. link.html">Ссылки html без домена</a>
 <br>5) Пустой атрибут href
 <br><a href="">Пустой атрибут href</a>
+
+<h2>Картинки</h2>
+
+<p><img src="https://howtobeahero.de/images/thumb/a/aa/TwitterLogo26x26.png/100px-TwitterLogo26x26.png">
+    <br>Картинка с абсолютным адресом</p>
+
+<h3>Картинки с относительным адресом</h3>
+
+<p><img src="color.png">
+    <br>картинка со страничкой находятся в одной папке</p>
+<p><img src="added/picture.png">
+    <br> со странички спускаемся в подпапку с картинкой </p>
+<p><img src="../body_format.jpg">
+    <br> со странички поднимаемся вверх к картинке</p>
+<p><img src="../structure/typography_2.jfif" >
+    <br> со странички поднимаемся вверх и спускаемся в другую папку</p>
+
+<h3>Ссылка на картинку<a id="img"></a></h3>
+
+<p><a href="https://howtobeahero.de/images/thumb/a/aa/TwitterLogo26x26.png/100px-TwitterLogo26x26.png"><img src="https://howtobeahero.de/images/thumb/a/aa/TwitterLogo26x26.png/100px-TwitterLogo26x26.png" alt="Белая птичка на синем фоне из пикселей маленького размера"> </a></p>
+
+<h3>Атрибут title</h3>
+
+<p><img src="added/picture.png"
+        alt="Строитель выкладывает стену из тегов html"
+        title="Вы являетесь строителем своих знаний по html">
+    </a></p>
+
+<h3>Редактируем размер изображения</h3>
+
+<p><img src="added/picture.png"
+        alt="Строитель выкладывает стену из тегов html"
+        title="Вы являетесь строителем своих знаний по html"
+        width="500"
+        height="400">
+    <br>picture.png в сотых (сравнение с исходным)</p>
+
+<p><img src="../structure/typography_2.jfif"
+        alt="Строитель выкладывает стену из тегов html"
+        title="Вы являетесь строителем своих знаний по html"
+        width="500"
+        height="400">
+    <br>typography_2.jfif в сотых (сравнение разных изображений с одинаковым размером)</p>
+
+<p>
+    <img src="../structure/typography_2.jfif"
+         alt="Строитель выкладывает стену из тегов html"
+         title="Вы являетесь строителем своих знаний по html"
+         width="50"
+         height="40">
+    <br>typography_2.jfif в десятизначных числах для сравнения пикселей</p>
+
+<h3>Ещё атрибуты img</h3>
+
+<p>Выравнивание изображения
+    <img src="../structure/typography_2.jfif"
+         alt="Строитель выкладывает стену из тегов html"
+         title="Вы являетесь строителем своих знаний по html"
+         width="50"
+         height="40"
+        align="middle">
+     по середине относительно окружающего его контекста typography_2.jfif</p>
+
+<p>Выравнивание изображения справа
+    <img src="../structure/typography_2.jfif"
+         alt="Строитель выкладывает стену из тегов html"
+         title="Вы являетесь строителем своих знаний по html"
+         width="50"
+         height="40"
+         align="right">
+Выравнивание изображения справа относительно окружающего его контекста typography_2.jfif</p>
+
+<p>Выравнивание изображения
+    <img src="../structure/typography_2.jfif"
+         alt="Строитель выкладывает стену из тегов html"
+         title="Вы являетесь строителем своих знаний по html"
+         width="50"
+         height="40"
+         align="middle"
+         hspace="70">
+    по середине относительно окружающего его контекста + отступ слева и справа от изображения typography_2.jfif</p>
+
+<p>Выравнивание изображения
+    <img src="../structure/typography_2.jfif"
+         alt="Строитель выкладывает стену из тегов html"
+         title="Вы являетесь строителем своих знаний по html"
+         width="50"
+         height="40"
+         align="middle"
+         vspace="70">
+    по середине относительно окружающего его контекста + отступ сверху и снизу от изображения typography_2.jfif</p>
+
+<p>Выравнивание изображения
+    <img src="../structure/typography_2.jfif"
+         alt="Строитель выкладывает стену из тегов html"
+         title="Вы являетесь строителем своих знаний по html"
+         width="50"
+         height="40"
+         align="middle"
+         hspace="6"
+         vspace="7">
+    по середине + отступ слева и справа + отступ сверху и снизу typography_2.jfif</p>
+
+<p> <img src="../structure/typography_2.jfif"
+         alt="Строитель выкладывает стену из тегов html"
+         title="Вы являетесь строителем своих знаний по html"
+         width="50"
+         height="40"
+         border="6">
+    Ширина рамки вокруг изображения typography_2.jfif</p>
+
+<h2>ТЕГ VIDEO <a id="video"></a></h2>
+
+<br><video width="100%" height="auto" controls=""><source src="https://путь для файла/video.mp4" type="video/mp4"></video>
+
+<h3>Автоматически запустить видео при загрузке страницы</h3>
+<br><video width="100%" height="auto" controls autoplay><source src="https://путь для файла/video.mp4" type="video/mp4"></video>
+
+<h3>Вывести картинку на видео</h3>
+<br><video width="100%" height="auto" controls poster="color.png"><source src="https://www.youtube.com/watch?v=rSc_K7KjEGo&ab_channel=DeepPalace"></video>
+
+<h2>ТЕГ AUDIO</h2>
+<audio controls width="100%"><source src="https://путь для файла/audio.mp3"></audio>
+
+<h2>Закладка</h2>
+<h3>Закладка на этой странице</h3>
+<br><a href="#img" target="_blank" title="Закладка в текущем документе">Гиперссылка на закладку в текущем документе (эта страница, но через новую вкладку)</a>
+
+<br><a href="img.html#video" target="_blank" title="Закладка в текущем документе">Гиперссылка на закладку (эта страница, но через новую вкладку, прописала ссылку на страницу)</a>
+
+<br><a href="#video" target="_self" title="Закладка в текущем документе">Гиперссылка на закладку (эта страница, но на этой же вкладке)</a>
+
+    
 </body>
 </html>
