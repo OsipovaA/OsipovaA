@@ -20,4 +20,4 @@
 ### Запись занятие 2.Ссылки: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/651826021 
 ### Запись занятие 3.Картинки: [https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/658059931](https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/658059931)
 ### Запись занятие 4.Таблички: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/664352103
-### Запись занятие 5.Формы: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/671076949
+### Запись занятие 5.Формы: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/671076949 
