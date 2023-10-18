@@ -22,6 +22,6 @@
 ### Запись занятие 2.Ссылки: [https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/651826021 ](https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/651826021)
 ### Запись занятие 3.Картинки: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/658059931 
 ### Запись занятие 4.Таблицы: [https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/664352103](https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/664352103)
-### Запись занятие 5.Формы: [https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/671076949 ](https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/671076949)https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/671076949
+### Запись занятие 5.Формы: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/671076949 
 ### Запись занятие 6. Загрузка на гитхаб: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/677837887 
 ### Запись занятие 7. Требования к КР 1: https://events.webinar.ru/51809055/746507063/record-new/1779046847/record-file/677744869
