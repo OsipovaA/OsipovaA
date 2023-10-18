@@ -6,8 +6,8 @@
 </head>
 <body>
 <!-- <p>Пример закомментированного фрагмента </p>-->
-
-<h1>Первое занятие. Текст и форматирование</h1>
+<br>
+<h1>Тема 1. Текст и форматирование</h1>
 
 <p> Абзац с отступами (не закрыт тег!)
 <p align="center"> Абзац с отступами и выравниванием по центру </p>
@@ -56,7 +56,7 @@
 
 <h6>Справочная информация</h6>
 
-<h2>index Марширов ВВ</h2>
+<h2>index.html Марширов ВВ</h2>
 
 <p>В этом параграфе встроен <span>оригинальный фрагмент</span> </p>
 <p>В текущем параграфе есть<br>разрыв строки</p>
@@ -96,8 +96,10 @@
     <li> 2-й элемент списка
     <li> 3-й элемент списка
 </ol>
-
-<h1>Второе занятие. Ссылки</h1>
+<br>
+    <br>
+    <br>
+<h1>Тема 2. Ссылки</h1>
 
 <h2>Простая ссылка</h2>
 <p>Ссылка задаётся через: <a href="адрес_ссылки"> текст_ссылки </a></p>
@@ -136,8 +138,10 @@
 <br><a href="/2. link.html">Ссылки html без домена</a>
 <br>5) Пустой атрибут href
 <br><a href="">Пустой атрибут href</a>
-
-<h2>Картинки</h2>
+<br>
+    <br>
+    <br>
+<h1> Тема 3. Картинки</h1>
 
 <p><img src="https://howtobeahero.de/images/thumb/a/aa/TwitterLogo26x26.png/100px-TwitterLogo26x26.png">
     <br>Картинка с абсолютным адресом</p>
@@ -267,7 +271,124 @@
 <br><a href="img.html#video" target="_blank" title="Закладка в текущем документе">Гиперссылка на закладку (эта страница, но через новую вкладку, прописала ссылку на страницу)</a>
 
 <br><a href="#video" target="_self" title="Закладка в текущем документе">Гиперссылка на закладку (эта страница, но на этой же вкладке)</a>
+    <br>
+    <br>
+    <br>
+    <h1>Тема 3. Таблица</h1>
+<table border="7" width="100%" bgcolor="#ffebcd" bordercolor="blue">
 
-    
+    <tbody >
+    <tr >
+        <th><a href="https://www.hse.ru/en/"><img  src="https://raw.githubusercontent.com/g00u00/g06u28/main/010_html/030_images/hse30.png" height="25px"></a> Заголовок первого столбца</th>
+        <td >Столбец 2 основного блока</td>
+        <td >Столбец 3 основного блока</td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr><td>Строка 1. Столбец 1</td></tr>
+    <tr>
+        <td>Строка 2. Столбец 1</td>
+        <td>Строка 2. Столбец 2</td>
+        <td>Строка 2. Столбец 3</td>
+    </tr>
+    <tr>
+        <td valign="top" >Строка 3. Столбец 1. По верхнему краю</td>
+        <td rowspan="2">Строка 3. Столбец 2. Объединяем 2 строки</td>
+        <td height="50px">Строка 3. Столбец 3. Высота 50 пикселей</td>
+    </tr>
+    <tr>
+        <td>Строка 4. Столбец 1</td>
+        <td>Строка 4. Столбец 3</td>
+    </tr>
+    <tr><td colspan="5">Строка 5</td></tr>
+
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td>
+            <ol type="a"> <li> item</li>
+                <ul type="circle">
+                    <li> subitem</li>
+                    <li> subitem</li>
+                    <li> subitem</li>
+                </ul>
+                <li> item</li>
+                <li> item</li>
+            </ol>
+        </td>
+    </tr>
+
+
+</table>
+    <br>
+    <br>
+    <br>
+    <h1> Тема 4. Формы</h1>
+    <p>Тег form
+<form action="" method="get">
+
+<p>Кнопка «Отправить»
+    <br><button type="submit">Отправить</button>
+    <br><input type="submit" name="submit" value="Отправка">
+
+<p>Кнопка «Очистить»
+    <br><button type="reset">Очистить</button>
+    <br><input type="reset">
+
+<p>Ввод небольшого текста
+<input type="text">
+
+<p>Поле для ввода текста
+    <br><textarea></textarea>
+    <br><textarea>Введите ваш текст</textarea>
+    <br><textarea maxlength="20" cols="9" rows="4" name="textarea">Введите ваш текст</textarea>
+
+<p>Пояснительный текст
+    <br><input type="text" placeholder="Введите имя">
+    <br><textarea placeholder="Введите текст"></textarea>
+
+<p>Числовые значения
+<input type="number" name="number" size="25" value="0">
+
+<p>Пароль
+<input type="password" name="password" size="23">
+
+<p>Поле для адреса электронной почты
+<input type="email" placeholder="email через @">
+
+<p>Загрузка файла
+    <br><input type="file" value="Загрузите пдф документ">
+
+<p>Выбор даты
+    <br><input type="date">
+    <br><input type="date" name="user" value="2023-10-11">
+
+<p>Переключатели (+checked)
+    <br>Зависимый (один вариант)
+    <br><input type="radio" checked> Бакалавриат
+    <br><input type="radio"> Магистратура
+
+    <br>Независимый (несколько вариантов)
+    <br><input type="checkbox" checked> Бакалавриат
+    <br><input type="checkbox"> Магистратура
+    <br><input type="checkbox"> Аспирантура
+    <br><input type="checkbox"> Докторантура
+
+<p>Выпадающий список
+    <select>
+        <option>не владею</option>
+        <option>со словарем</option>
+        <option>свободно</option>
+        <option>в совершенстве</option>
+    </select>
+
+<p>Проверка полей формы на заполнение
+    <input type="text" required>
+    </form>
+<br>
+    <br>
+    <br>
 </body>
 </html>
