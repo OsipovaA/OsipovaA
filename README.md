@@ -3,7 +3,7 @@
 ### [[https://events.webinar.ru/51809055/746507063/stream-new/1779046847](https://events.webinar.ru/51809055/712596899)](https://my.mts-link.ru/51809055/712596899)
 
 ### Семинар (Основы web-технологий), с 13:00 (группа 7 по необходимости):
-### [[https://events.webinar.ru/51809055/746507063/stream-new/1779046847](https://events.webinar.ru/51809055/712596899)](https://my.mts-link.ru/51809055/712596899)
+### https://my.mts-link.ru/51809055/712596899
 
 
 ## Орг. информация
